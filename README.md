@@ -12,6 +12,7 @@ Selanjutnya untuk menambahkan remote ke dalam repository lokal, kita bisa menggu
 ### 5.Mengirimkan file kedalam repository
 perintah untuk mengirimkan file kedalam repository yakni `git push [nama remote] [nama branch]` misalnya `git push origin master`, karena default nama remote dari github adalah origin dan branch nya adalah master.
 
+
 ## Bekerja dengan repository milik orang lain
 ### 1. Clone repository ke komputer lokal
 kita dapat melakukan clone repository milik orang lain kedalam komputer lokal kita, dengan menggunakan perintah `git clone [alamat repository]` . contohnya disini menggunakan repository yang sudah ada, maka perintahnya `git clone https://github.com/sandypracoyo/sandypracoyo.github.io.git`
