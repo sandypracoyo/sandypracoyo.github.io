@@ -30,4 +30,13 @@ Apabila sudah sama, selanjutnya lakukkan rebase dengan perintah `git rebase [nam
 setelah kita melakukkan push, masuk kedalam repository remote, lalu akan ada menu compare & pull request,pilih menu tersebut lalu kita akan melakukkan pull request ke repository remote untuk membandingkan perubahan yang kita lakukkan apabila sudah yakin, lakukkan pull request dengan memilih create pull request. pemilik repository akan menerima pesan bahwa kita melakukkan pull request, selanjutnya pemilik akan me review hasil perubahan kita, ketika pemilik sudah menyetujui maka pemilik akan memilih menu merge pull request untuk menggabungkan branch yang kita push dengan branch di master repository.
 
 
+## Note
+### Gitignore
+Gitignore digunakan untuk melakukkan pengecualian file tertentu agar tidak ikut di push ke dalam repository remote. untuk menggunakannya, buat sebuah file dengan nama `.gitignore` didalam project kita. Selanjutnya tinggal kita tulis file beserta ekstensi nya kedalam file `.gitignore`.
+
+### Cek log di repository komputer
+untuk mengecek log di repository lokal kita, dapat menggunakan perintah `git log`.
+
+
+
 `
