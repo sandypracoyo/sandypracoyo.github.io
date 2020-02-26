@@ -37,6 +37,8 @@ Gitignore digunakan untuk melakukkan pengecualian file tertentu agar tidak ikut 
 ### Cek log di repository komputer
 untuk mengecek log di repository lokal kita, dapat menggunakan perintah `git log`.
 
+### Cek posisi branch di komputer
+untuk mengecek posisi branch bisa menggunakan perintah `git branch`
 
 
 `
