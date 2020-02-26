@@ -33,7 +33,7 @@ setelah kita melakukkan push, masuk kedalam repository remote, lalu akan ada men
 ## Note
 ### Gitignore
 Gitignore digunakan untuk melakukkan pengecualian file tertentu agar tidak ikut di push ke dalam repository remote. untuk menggunakannya, buat sebuah file dengan nama `.gitignore` didalam project kita. Selanjutnya tinggal kita tulis file beserta ekstensi nya kedalam file `.gitignore`.
-Untuk melihat gitignore yang terdapat pada project tertentu dapat dilihat di [https://github.com/github/gitignore]
+Untuk melihat gitignore yang terdapat pada project tertentu dapat dilihat di [https://github.com/github/gitignore] [sini]
 
 ### Cek log di repository komputer
 untuk mengecek log di repository lokal kita, dapat menggunakan perintah `git log`.
